@@ -1,0 +1,20 @@
+{
+  "name": "eslint-plugin-redux-constants",
+  "version": "1.0.0",
+  "description": "eslint rules for redux action constants",
+  "scripts": {
+    "test": "node ./test/rules/redux-constants.js"
+  },
+  "keywords": [
+    "eslint",
+    "eslint-plugin"
+  ],
+  "author": "Harrison Houghton",
+  "license": "MIT",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0"
+  }
+}
