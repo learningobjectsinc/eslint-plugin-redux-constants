@@ -9,7 +9,7 @@
     "eslint",
     "eslint-plugin"
   ],
-  "repository": "https://github.com/learningobjectsinc/eslint-plugin-redux-constants"
+  "repository": "https://github.com/learningobjectsinc/eslint-plugin-redux-constants",
   "author": "Harrison Houghton",
   "license": "MIT",
   "peerDependencies": {
